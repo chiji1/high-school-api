@@ -1,10 +1,10 @@
 {
   "name": "school-api",
   "version": "1.0.0",
-  "description": "Winning API",
-  "author": "Nditah Sam",
+  "description": "High School API",
+  "author": "Okafor Chijioke",
   "license": "MIT",
-  "homepage": "https://github.com/Nditah/school-api#readme",
+  "homepage": "https://github.com/chiji1/high-school-api#readme",
   "main": "dist",
   "scripts": {
     "clean": "rm -rf dist && mkdir dist",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nditah/school-api.git"
+    "url": "git+https://github.com/chiji1/high-school-api.git"
   },
   "keywords": [
     "Express",
